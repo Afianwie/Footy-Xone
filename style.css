@@ -51,6 +51,10 @@ body {
     border: 1px solid #ececec;
     margin: 20px;
 }
+.blog-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
 .blog-img {
     width: 100%;
     height: auto;
